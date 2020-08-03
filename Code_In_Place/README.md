@@ -1,0 +1,1 @@
+The Image_Editing folder consists of image editing projects presented in Code In Place, such as a program that applies a filter to an image chosen by the user, or a default image, a program that creates an 
