@@ -1,7 +1,9 @@
 """
 File: brickbreaker.py
 ----------------
-YOUR DESCRIPTION HERE
+This program is the classic game in which the player uses a moving paddle at the bottom of the screen
+to hit a bouncing ball and hit and delete as many bricks as possible. The game ends if the ball misses 
+the paddle and hits the bottom.
 """
 
 import tkinter
