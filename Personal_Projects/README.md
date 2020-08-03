@@ -1,4 +1,6 @@
-This folder contains the personal projects I worked on following the completion of Code In Place. The Image_Editing folder contains the code and images required for an image editing program that takes a common description applied to corgis online and makes it literal.
+This folder contains the personal projects I worked on following the completion of Code In Place. 
+
+The Image_Editing sub-folder contains the code and images required for an image editing program that takes a common description applied to corgis online and makes it literal.
 
 The other project descriptions are as follows:
 1. brickbreaker.py - This is the classic game in which the player uses a paddle to direct a bouncing ball to hit as many bricks as possible without missing the paddle. If the player misses the paddle then the game ends.
