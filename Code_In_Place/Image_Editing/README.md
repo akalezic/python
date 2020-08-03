@@ -1,4 +1,4 @@
-These projects were part of a series of Code In Place assignments focused on editing images. These projects require the Pillow library to be installed.
+These projects were part of a series of Code In Place assignments focused on editing images. These projects require the user to install the Pillow library.
 
 The assignment descriptions are as follows:
 1. codeinplace_filter.py - Applies a pinkish filter over the image specified by the user, or the default image if not specified.
