@@ -2,4 +2,4 @@ This file contains my final project during Code In Place. For the final project 
   
 The data analysis and animation required the use of the datetime, pandas, numpy, seaborn, matplotlib, matplotlib.pyplot, and matplotlib.animation Python libraries. The .csv file I drew from is also included. This data is from the CDC website. 
 
-Link: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/previouscases.html
+Link to data: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/previouscases.html
