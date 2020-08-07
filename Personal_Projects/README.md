@@ -9,6 +9,5 @@ The other project descriptions are as follows:
 3. extension.py - This program prints multiples of 3 under 1000.
 4. num_guessing.py - This program acts as a number guessing game that generates a random number in a certain range. The user then guesses, with hints about whether their guess is too high or low, until they guess the correct number.
 5. odd_num.py - This program prints the first 100 odd numbers.
-6. snack_quiz.py - This program is a quiz that helps the user figure out what snack they feel like having by using questions that direct them to what sort of snack they might want until a final option is reached. 
-7. temp_converter.py - This program asks the user what temperature conversion they would like to do, asks them for the temperature they would like to convert from one measure to
+6. temp_converter.py - This program asks the user what temperature conversion they would like to do, asks them for the temperature they would like to convert from one measure to
 the other, then prints the converted temperature.
