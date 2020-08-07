@@ -1,11 +1,11 @@
 """
 File: tea_rec.py
 ----------------
-After working in a tea shop and being an avid tea drinker for years, both customers and I had the
-issue of not knowing what tea to drink. This program is intended to narrow a tea drinker's options
+After working in a tea shop and being an avid tea drinker for years, both customers and I have had 
+the issue of not knowing what tea to drink. This program is intended to narrow a tea drinker's options
 down by asking a series of questions.
 
-Disclaimer: these are my personal favorites of the types of teas described! Multiple options are
+Disclaimer: The teas that are linked are my personal favorites of each type! Multiple options are
 included for some, and as such mutltiple web browser windows will open when a button is pressed.
 """
 
