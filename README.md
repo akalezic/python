@@ -1,4 +1,4 @@
-# python
+# Python
 This repository consists of work done during the Code In Place course held by Stanford University over quarantine, and my personal projects following the course. The course corresponds to the first half of their CS106A course and teaches programming in Python. The course took place over the course of five weeks and progressed from learning basic commands to progams focusing on data analysis through the use of lists. I have divided the projects done in Code In Place and my personal projects after the course into separate sub-folders.
 
 **Code_In_Place**   
